@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MessDetectorOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCSFixerOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCodeSnifferOptionsConfiguration">
+    <option name="highlightLevel" value="WARNING" />
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpCSFixer">
+    <phpcsfixer_settings>
+      <PhpCSFixerConfiguration tool_path="$PROJECT_DIR$/starshop/vendor/bin/php-cs-fixer" />
+    </phpcsfixer_settings>
+  </component>
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/startshop/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/startshop/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/startshop/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/startshop/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/startshop/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/startshop/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/startshop/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/startshop/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/startshop/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/startshop/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/startshop/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/startshop/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/startshop/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/startshop/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/startshop/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/startshop/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/startshop/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/startshop/vendor/symfony/polyfill-php83" />
+      <path value="$PROJECT_DIR$/startshop/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/startshop/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/startshop/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/startshop/vendor/symfony/flex" />
+      <path value="$PROJECT_DIR$/startshop/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/startshop/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/startshop/vendor/symfony/framework-bundle" />
+      <path value="$PROJECT_DIR$/startshop/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/startshop/vendor/composer" />
+      <path value="$PROJECT_DIR$/startshop/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/startshop/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/startshop/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/startshop/vendor/symfony/runtime" />
+      <path value="$PROJECT_DIR$/startshop/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/starshop/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/starshop/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/starshop/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/starshop/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/starshop/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/starshop/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/starshop/vendor/symfony/framework-bundle" />
+      <path value="$PROJECT_DIR$/starshop/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/starshop/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/starshop/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/starshop/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/starshop/vendor/composer" />
+      <path value="$PROJECT_DIR$/starshop/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/starshop/vendor/symfony/flex" />
+      <path value="$PROJECT_DIR$/starshop/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/starshop/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/starshop/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/starshop/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/starshop/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/starshop/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/starshop/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/starshop/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/starshop/vendor/symfony/polyfill-php83" />
+      <path value="$PROJECT_DIR$/starshop/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/starshop/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/starshop/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/starshop/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/starshop/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/starshop/vendor/symfony/runtime" />
+      <path value="$PROJECT_DIR$/starshop/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/starshop/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/starshop/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/starshop/vendor/php-cs-fixer/shim" />
+      <path value="$PROJECT_DIR$/starshop/vendor/twig/extra-bundle" />
+      <path value="$PROJECT_DIR$/starshop/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/starshop/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/starshop/vendor/symfony/twig-bundle" />
+      <path value="$PROJECT_DIR$/starshop/vendor/symfony/twig-bridge" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.2" />
+  <component name="PhpStanOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings custom_loader_path="$PROJECT_DIR$/starshop/vendor/autoload.php" />
+    </phpunit_settings>
+  </component>
+  <component name="PsalmOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+</project>
